@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhushiSharma0313
-- 👀 I’m interested in web development and data structures
+- 👀 I’m interested in web development,data structures and data analytics
 - 🌱 I’m currently learning data structures and algorithms using c++
 - 💞️ I’m looking to collaborate on web development projects and projects using javascript
 - 📫 How to reach me ... sharmakhushi0313@gmail.com
