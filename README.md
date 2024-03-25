@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,data structures and data analytics
 - 🌱 I’m currently learning data structures and algorithms using c++
 - 💞️ I’m looking to collaborate on web development projects and projects using javascript
-- 📫 How to reach me ... sharmakhushi0313@gmail.com
+- 📫 How to reach me ... sharmakhushi0313@outlook.com
 
 <!---
 KhushiSharma0313/KhushiSharma0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
