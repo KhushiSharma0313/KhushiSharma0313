@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms using c++
 - 💞️ I’m looking to collaborate on web development projects and projects using javascript
 - 📫 How to reach me ... sharmakhushi0313@outlook.com
+- Here is a cool banner of hacktober fest board.
 - [![An image of @khushisharma0313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushisharma0313)](https://holopin.io/@khushisharma0313)
 
 <!---
